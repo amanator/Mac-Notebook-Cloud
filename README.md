@@ -1,3 +1,5 @@
+This web application helps users to create notes and store them on cloud. And this web app uses tokens for authentication which safeguard user data from attackers malicious attacks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
